@@ -34,7 +34,7 @@ The data set contains the following diseases:
 
 * Create a CNN model, which can accurately detect 9 classes present in the dataset. While building the model rescale images to normalize pixel values between (0,1).<br>
 * Choose an appropriate optimiser and loss function for model training<br>
-* Train the model for ~20 epochs<br>
+* Train the model for ~40 epochs<br>
 * Write your findings after the model fit, see if the earlier issue is resolved or not?<br>
 
 <b>Class distribution:</b> Examine the current class distribution in the training dataset <br>
